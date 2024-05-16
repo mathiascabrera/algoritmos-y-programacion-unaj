@@ -17,4 +17,4 @@ h) Listado de técnicos.</p>
 <br>
 <h2>UML</h2>
 <br>
-<img src="[https://imgur.com/ASIv9fb](https://imgur.com/wQFoGZp).png">
+<img src="https://imgur.com/wQFoGZp.png">
